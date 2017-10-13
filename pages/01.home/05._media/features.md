@@ -1,6 +1,7 @@
 ---
-
+image_align: left
 ---
+
 # Media
 PR Newswire
 Balanc3 to Assure Financial Transparency for SingularDTV
