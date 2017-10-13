@@ -1,5 +1,5 @@
 ---
-
+image_align: left
 ---
 
 # Accounting Services
