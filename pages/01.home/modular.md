@@ -1,4 +1,5 @@
 ---
+title: Balanc3
 content:
     items: '@self.modular'
     order:
