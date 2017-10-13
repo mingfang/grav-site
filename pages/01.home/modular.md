@@ -1,7 +1,7 @@
 ---
 content:
     items: '@self.modular'
-    title: Home
+    title: ''
 onpage_menu: false
 ---
 
