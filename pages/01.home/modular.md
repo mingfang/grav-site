@@ -1,7 +1,7 @@
 ---
 content:
     items: '@self.modular'
-onpage_menu: false
+onpage_menu: true
 menu: '-'
 ---
 
