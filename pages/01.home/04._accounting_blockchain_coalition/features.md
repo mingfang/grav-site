@@ -20,4 +20,5 @@ Digital Asset Management
 Enterprise Resource Planning (ERP) Systems
 
 These working groups and the professionals involved will be setting the accounting guidance and standards around the accelerating blockchain industry.
+
 ---
