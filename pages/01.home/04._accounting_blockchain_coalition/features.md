@@ -1,4 +1,8 @@
 ---
+image_align: left
+---
+
+---
 
 ---
 # Accounting Blockchain Coalition
